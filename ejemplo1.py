@@ -3,6 +3,8 @@ def mensaje():
     
 mensaje()
 
+def mensaje2():
+    print("Volvi a la primera version")
 def sumar(n1,n2):
     print("El resultado de la suma es: ", n1 + n2)
     
